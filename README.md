@@ -133,4 +133,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Google ML Kit](https://developers.google.com/ml-kit)
 - [Flutter Bloc Library](https://bloclibrary.dev)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-```
+
