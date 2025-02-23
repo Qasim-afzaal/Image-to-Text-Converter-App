@@ -113,11 +113,7 @@ sequenceDiagram
 <string>Need photo library access to pick images</string>
 ```
 
-## Screenshots
 
-| Image Selection | Text Recognition |
-|-----------------|------------------|
-| <img src="screenshots/1.jpg" width="300"> | <img src="screenshots/2.jpg" width="300"> |
 
 ## Contributing
 
@@ -138,22 +134,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Flutter Bloc Library](https://bloclibrary.dev)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 ```
-
-To use this README:
-
-1. Create a `screenshots` folder in your project root
-2. Add actual demo GIF and screenshots (replace placeholder names)
-3. Update the repository URL in the installation section
-4. Adjust any platform-specific configurations as needed
-
-This README includes:
-- Badges for quick project overview
-- Visual demonstration (GIF/screenshots)
-- Clear installation instructions
-- Architecture overview
-- Workflow visualization (mermaid diagram)
-- Platform-specific setup
-- Contribution guidelines
-- Licensing information
-
-The mermaid diagram will render automatically on GitHub to show the sequence of operations.
