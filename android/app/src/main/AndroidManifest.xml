@@ -42,4 +42,9 @@
             <data android:mimeType="text/plain"/>
         </intent>
     </queries>
+
+    <!-- Add permissions for gallery access -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="28"/>
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" android:targetSdkVersion="30"/>
 </manifest>
