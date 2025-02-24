@@ -12,3 +12,7 @@ image_picker_ios=/Users/qasim/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.12+
 image_picker_linux=/Users/qasim/.pub-cache/hosted/pub.dev/image_picker_linux-0.2.1+1/
 image_picker_macos=/Users/qasim/.pub-cache/hosted/pub.dev/image_picker_macos-0.2.1+2/
 image_picker_windows=/Users/qasim/.pub-cache/hosted/pub.dev/image_picker_windows-0.2.1+1/
+permission_handler=/Users/qasim/.pub-cache/hosted/pub.dev/permission_handler-10.4.5/
+permission_handler_android=/Users/qasim/.pub-cache/hosted/pub.dev/permission_handler_android-10.3.6/
+permission_handler_apple=/Users/qasim/.pub-cache/hosted/pub.dev/permission_handler_apple-9.1.4/
+permission_handler_windows=/Users/qasim/.pub-cache/hosted/pub.dev/permission_handler_windows-0.1.3/
